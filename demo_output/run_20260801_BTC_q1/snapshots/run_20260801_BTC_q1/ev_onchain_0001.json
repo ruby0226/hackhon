@@ -1,0 +1,8 @@
+{
+ "fake_raw_response": {
+  "value": 912345,
+  "window": "7d",
+  "wow_change_pct": 4.2
+ },
+ "source": "Coin Metrics"
+}

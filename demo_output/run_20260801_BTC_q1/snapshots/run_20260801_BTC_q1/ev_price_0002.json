@@ -1,0 +1,10 @@
+{
+ "fake_raw_response": {
+  "ma50_gt_ma200": true,
+  "windows": [
+   50,
+   200
+  ]
+ },
+ "source": "Binance"
+}

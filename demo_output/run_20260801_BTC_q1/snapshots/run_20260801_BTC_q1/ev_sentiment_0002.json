@@ -1,0 +1,8 @@
+{
+ "fake_raw_response": {
+  "bullish_pct": 63,
+  "window": "24h",
+  "sample": 40
+ },
+ "source": "Reddit"
+}

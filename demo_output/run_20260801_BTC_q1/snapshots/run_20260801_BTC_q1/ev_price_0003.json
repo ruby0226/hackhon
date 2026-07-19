@@ -1,0 +1,7 @@
+{
+ "fake_raw_response": {
+  "value": 42.5,
+  "window": "30d"
+ },
+ "source": "CoinGecko"
+}
