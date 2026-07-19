@@ -1,8 +1,0 @@
-{
- "fake_raw_response": {
-  "value": 71.3,
-  "window": "14d",
-  "threshold": 70
- },
- "source": "Binance"
-}
